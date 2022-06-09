@@ -1,13 +1,10 @@
 ### Hi there 👋
 
-I am currently
-- exploring:
-  - game prototyping,
-- looking to learn:
-  - procedural programming,
-  - compiling to (and embedding) WebAssembly,
-- looking to practice more of:
-  - C++ programming,
-  - writing automated tests.
+Most of my uploaded codes are from my learning journey e.g. book exercises and university assignments - so there's not much to showcase yet. <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wafibismail&layout=compact&theme=dark&hide_border=true&custom_title=My%20Top%20Languages%20\(By%20Volume\))](#hi-there-)
+However I do either have some foundational knowledge and/or deep interest in collaborating (or working) on projects involving:
+- Game design & development
+  - especially if (but not limited to) using Unity3D, C#, JavaScript, or C++
+- Web development
+  - particularly Full-Stack or Single-Page Applications
+  - especially if (but not limited to) using TypeScript, NPM, or Deno.js
