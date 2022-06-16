@@ -1,41 +1,44 @@
-<h1 align="center">Hi there 👋</h1>
+<h1>About - In programming</h1>
 
-### About - in Programming
+<div>
+  <h3>Currently exploring:</h3>
+  <p>
+    <b>Open-source libraries in C++</b> <br>
+    - SDL 2.0, <br>
+    - FreeGLUT.
+  </p>
+</div>
 
-- I am currently
-  - exploring
-    - graphics rendering; C++ open-source libraries:
-      - SDL2.0,
-      - FreeGLUT,
-  - looking to collaborate/work on
-    - Single-Page Apps / Progressive Web Apps
-    - Node.js projects,
-    - Unity3D projects,
-  - looking to practice more of
-    - writing automated tests / TDD,
+<div>
+  <h3>Looking to:</h3>
+  <p>
+    <b>Practice more of</b> <br> 
+    - C++ programming, <br>
+    - writing automated tests / TDD, <br>
     - applying OOP design patterns.
+  </p>
+  <p>
+    <b>Collaborate/work on</b> <br>
+    - web frontends, <br>
+    - Node.js projects, <br>
+    - Unity3D projects.
+  </p>
+</div>
 
-```
-                     NOTE
+___
 
-  There isn't much to see here yet, but I have
-  made public my source code outputs from some
-  book exercises and student assignments I did
-  (mixed with personal notes; pardon the mess)
-  
-  When I do have something worth showing, they
-  would be among the other pinned repositories
-  
-   In the mean time, feel free to look around
-   to get to know either what I've been up to
-     ...or my current interests ...or both.
-  
-                   --WAFI--
-```
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wafibismail&layout=compact&theme=dark&hide_border=true&custom_title=Wafi's%20Languages%20Usage%20\(In%20Public%20Repos\))](#hi-there-)
-
-- **Reach me:**
-  - **wafibismail@gmail.com**
-  - **[LinkedIn](https://bn.linkedin.com/in/abdul-wafi-haji-ismail-42669353)**
-  - **[Twitter](https://twitter.com/wafibismail)**
+<div align="center">
+  <b>Pinned repositories</b>
+  <p>
+    These are some of my practice codes <br> (from student assignments & books) <br> which might help hint on my recent interests
+  </p>
+  <p>
+    When I do have my own project, <br> or something more worth presenting, <br> I will pin them too
+  </p>
+  <p> <b>
+    Contact <br>
+    <a href="mailto:wafibismail@gmail.com">wafibismail@gmail.com</a> <br>
+    <a href="https://bn.linkedin.com/in/abdul-wafi-haji-ismail-42669353">LinkedIn</a> <br>
+    <a href="https://twitter.com/wafibismail">Twitter</a>
+  </b> </p>
+</div>
