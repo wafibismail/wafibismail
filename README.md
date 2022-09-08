@@ -21,16 +21,15 @@
   <table>
     <tr></tr>
     <tr>
-      <th rowspan=5>GAME<br>DESIGN<br>&<br>DEVELOPMENT</th>
+      <th rowspan=6>GAME<br>DESIGN<br>&<br>DEVELOPMENT</th>
       <th>Engine:</th>
       <th>Language:</th>
     </tr>
     <tr>
-      <td></td>
+      <td rowspan=2></td>
       <td>HTML5 + JS/TS</td>
     </tr>
     <tr>
-      <td></td>
       <td>C++</td>
     </tr>
     <tr>
@@ -38,8 +37,11 @@
       <td>C#</td>
     </tr>
     <tr>
-      <td><a href="https://gdevelop.io/">GDevelop</a></td>
+      <td rowspan=2><a href="https://gdevelop.io/">GDevelop</a></td>
       <td>"no code"</td>
+    </tr>
+    <tr>
+      <td>JavaScript</td>
     </tr>
   </table>
 </div>
