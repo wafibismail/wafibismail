@@ -52,7 +52,8 @@
   I have yet to develop personal project(s) worth showing, 
   but my public repos may hint on my recent work.<br><br>
   When I do have more interesting work, 
-  I will include/link/pin them here as well
+  I will include/link/pin them here as well.<br><br>
+  Additionally, I have added some of them - and may continue to gradually do so - to <a href=https://wafi.dev>my website</a>.
 </div>
   
 ---
@@ -61,6 +62,7 @@
     Contact <br>
     <a href="mailto:wafibismail@gmail.com">wafibismail@gmail.com</a> <br>
     <a href="https://bn.linkedin.com/in/abdul-wafi-haji-ismail-42669353">LinkedIn</a> <br>
-    <a href="https://twitter.com/wafibismail">Twitter</a>
+    <a href="https://twitter.com/wafibismail">Twitter</a> <br>
+    <a href=https://wafi.dev>wafi.dev</a>
   </b>
 </div>
