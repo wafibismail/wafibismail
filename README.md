@@ -12,7 +12,6 @@
     <a href="mailto:wafibismail@gmail.com">wafibismail@gmail.com</a> <br>
     <a href="https://bn.linkedin.com/in/abdul-wafi-haji-ismail-42669353">LinkedIn</a> <br>
     <a href="https://twitter.com/wafibismail">Twitter</a> <br>
-    <a href=https://wafi.dev>wafi.dev</a>
   </b>
 </div>
   
