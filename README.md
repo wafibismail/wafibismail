@@ -1,8 +1,10 @@
 <div align="center">
   <h1>👋 Hi there 👋</h1>
-  I'm Wafi, a<br>
-  Mathematics major (BSc)<br><sup>Computer Science minor</sup><br>
-  I am currently working towards MSc by research in Computer Science
+  I'm Wafi<br>
+  <sup>I like to write programs and toy projects, and explore different approaches to software development</sup><br>
+  <sub>I am a</sub><br>
+  Bachelor of Science (BSc) in Mathematics,<br><sup>with a minor in <b>Computer Science</b></sup><br>
+  <sub>currently working towards</sub><br>MSc in Computing and Information Systems.
 </div>
   
 ---
